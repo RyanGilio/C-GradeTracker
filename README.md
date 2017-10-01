@@ -1,5 +1,12 @@
 # C-GradeTracker
-c# Grade Tracker
+# Grade Tracker
+
+[![GradeTrackerIcon](https://github.com/RyanGilio/C-GradeTracker/blob/master/gradeTrackerLogo2.png)](#Logo)
+
+## Create and view classes
+
+[![MainMenu](https://github.com/RyanGilio/C-GradeTracker/blob/master/mainMenu.PNG)](#Menu)
+[![MainMenu](https://github.com/RyanGilio/C-GradeTracker/blob/master/classMenu.PNG)](#Menu)
 
 
 All of the source files are uploaded.
