@@ -1,0 +1,17 @@
+Z:\C# Learning\Grade Tracker\Grade Tracker\bin\Debug\Grade Tracker.exe.config
+Z:\C# Learning\Grade Tracker\Grade Tracker\bin\Debug\Grade Tracker.exe
+Z:\C# Learning\Grade Tracker\Grade Tracker\bin\Debug\Grade Tracker.pdb
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade Tracker.csprojResolveAssemblyReference.cache
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade_Tracker.ClassInformationForm.resources
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade_Tracker.Form1.resources
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade_Tracker.NewCategory.resources
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade_Tracker.NewClass.resources
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade_Tracker.Properties.Resources.resources
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade Tracker.csproj.GenerateResource.Cache
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade Tracker.exe
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade Tracker.pdb
+Z:\C# Learning\Grade Tracker\Grade Tracker\bin\Debug\GradeTrackerLibrary.dll
+Z:\C# Learning\Grade Tracker\Grade Tracker\bin\Debug\GradeTrackerLibrary.pdb
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade_Tracker.NewReport.resources
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade_Tracker.EditCategory.resources
+Z:\C# Learning\Grade Tracker\Grade Tracker\obj\Debug\Grade_Tracker.EditReport.resources
